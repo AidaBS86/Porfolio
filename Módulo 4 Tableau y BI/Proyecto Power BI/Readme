@@ -1,0 +1,69 @@
+# 🎬 La receta perfecta para crear la mejor película de terror (basada en datos)
+
+Este proyecto fue realizado como parte del cuarto módulo del bootcamp de Data Analyst, y se centra en analizar los elementos clave que componen una **película de terror exitosa**, utilizando herramientas de visualización avanzadas en **Power BI**.
+
+---
+
+## 🎯 Objetivo
+
+Investigar, a partir de datos reales, qué características comparten las películas de terror mejor valoradas y más populares. Nos planteamos preguntas como:
+
+- ¿Tienen los directores una firma reconocible?
+- ¿Influye el país de estreno o rodaje en el éxito?
+- ¿Qué subgéneros triunfan más?
+- ¿Existe un presupuesto "ideal" para este tipo de películas?
+- ¿Hay diferencias por edades, duración o reparto?
+
+---
+
+## 📂 Fuentes de datos
+
+Utilizamos **2 datasets extraídos de Kaggle** con información detallada sobre películas de terror, incluyendo:
+
+- Título, año, duración, subgénero y presupuesto
+- Reparto, dirección y localización de rodaje y estreno
+- Valoraciones medias y número de votos
+- Clasificación por edades
+
+---
+
+## ⚙️ Preparación de los datos
+
+Se realizó una **limpieza y transformación previa en Jupyter Notebook**, usando `pandas` y otras herramientas en VSCode, para:
+
+- Unificar formatos de texto
+- Tratar valores nulos y duplicados
+- Extraer subgéneros y códigos de países
+- Calcular métricas como duración media o presupuestos por categoría
+
+También se aplicaron transformaciones adicionales dentro de **Power BI**, usando columnas calculadas y medidas DAX.
+
+---
+
+## 📊 Visualizaciones incluidas
+
+El dashboard se divide en secciones temáticas que permiten explorar distintos factores clave:
+
+- 🎭 **Actores y subgéneros:** gráfico de barras con recuento de películas y valoración media
+- 🧑‍🎬 **Directores destacados:** ranking según valoración media y número de títulos dirigidos
+- 📍 **Países de rodaje y estreno:** mapas interactivos con distribución geográfica
+- ⏱️ **Duraciones promedio por subgénero**
+- 💰 **Presupuesto ideal:** histogramas y KPIs por franjas de éxito
+- 📈 **Edad mínima recomendada:** distribución por tipo de película
+- 🧪 Filtros por subgénero, director, país, década, duración, presupuesto y más
+
+---
+
+## 👩‍💻 Equipo y metodología
+
+Este trabajo fue desarrollado por el equipo completo, usando **metodología ágil** y realizando presentacion oral al finalizar el proyecto.
+
+### Participantes:
+
+- Arantxa Herrero
+- Gemma Traguany
+- Silvia Farled (SCRUM Master)
+- Aida Bau
+
+Todas participamos en el análisis y desarrollo visual del dashboard.  
+En mi caso (Aida), **propuse el tema** y participé activamente en todas las fases: desde la **limpieza y exploración de datos**, hasta el diseño estético y funcional del informe.
