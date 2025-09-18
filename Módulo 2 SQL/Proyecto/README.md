@@ -79,8 +79,11 @@ BASE_URL = ' # URL base de la API de Last.fm'
 ### Autoras: 
 
 Irantzu Urkiola
+
 Inés García
+
 Aura Candela
+
 Aida Bau
 
 
