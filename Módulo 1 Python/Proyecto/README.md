@@ -1,4 +1,4 @@
-# proyecto-da-promo-52-modulo-1-equipo-4
+# Proyecto Python:
 Proyecto de Preguntas y Respuestas con Python.
 
 # Desarrollo:
@@ -36,20 +36,8 @@ Durante el desarrollo del proyecto, el equipo se organizó para cubrir distintas
 - ScrumTeam: Todas unidas!
 
 # Equipo del proyecto:
-Aura -
-Almudena -
-Lara -
-Eylin -
-Aida
-
-# Presentación del proyecto
-
-La presentación final incluye:
-
-- Una demo en vivo del juego desde Google Collab
-- Una presentación en Canva con:
-  - Portada con el nombre del equipo y las integrantes
-  - Introducción
-  - Objetivo y contexto
-  - Resumen del proyecto. Retos y soluciones
-  - Conclusiones y propuestas de mejora
+Aura 
+Almudena 
+Lara 
+Eylin 
+Aida 
