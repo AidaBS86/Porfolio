@@ -23,7 +23,7 @@ Comienza con una función que incluye un bucle for para la extracción de datos 
 
 ### Fase de extracción de datos
 
-**Extracción de datos de las Apis Spotify y Last.fm
+Extracción de datos de las Apis Spotify y Last.fm
 Para acceder a la extracción de datos son necesarias credenciales de las Apis
 
 Ejemplo introducción credenciales:
@@ -37,25 +37,25 @@ API_KEY = ' # INTRODUCE con tu clave de API válida de Last.fm'
 BASE_URL = ' # URL base de la API de Last.fm'  
 ```
 
-- **Antes de la fase de inserción de datos visualizamos la información extraída a través de un DataFrame
-- **Se ha descargado la información en CSV y XLSM
+- Antes de la fase de inserción de datos visualizamos la información extraída a través de un DataFrame
+- Se ha descargado la información en CSV y XLSM
   
 ### Fase de inserción de datos
 
-- **Manejar la información obtenida en los DF**
-- **Limpiar los datos en VSCode (Python)**
-- **Crear la base de datos con sus tablas y relaciones En MYSQL Workbench.**
-- **Insertar datos desde VsCode con biblioteca "MySQL.connector"**
-- **Hemos limpiado la columna de la fecha, dejando solo el año (MySQL Workbench)**
-- **Se han eliminado columnas innecesarias (MySQL Workbench)**
-- **Se han realizado las querys para obtener la información necesaria**
+- Manejar la información obtenida en los DF
+- Limpiar los datos en VSCode (Python)
+- Crear la base de datos con sus tablas y relaciones En MYSQL Workbench.
+- Insertar datos desde VsCode con biblioteca "MySQL.connector"
+- Hemos limpiado la columna de la fecha, dejando solo el año (MySQL Workbench)
+- Se han eliminado columnas innecesarias (MySQL Workbench)
+- Se han realizado las querys para obtener la información necesaria
 
 
 ### Fase de análisis de la información recopilada
 
-- **Análisis de los resultados obtenidos**
-- **Redacción de informe con descripción de conclusiones**
-- **Presentación de resultados**
+- Análisis de los resultados obtenidos
+- Redacción de informe con descripción de conclusiones
+- Presentación de resultados
 
 ### Herramientas utilizadas:
 
@@ -70,18 +70,19 @@ BASE_URL = ' # URL base de la API de Last.fm'
 
 ### Metodología SCRUM
 
-- **Scrum Master: Aida Bau**
-- **Creación de Backlog y actualizaciones diarias**
-- **Definición de Hitos**
-- **Dailys**
-- **Sprint reviews**
-- **Feedbacks de mejora**
+- Scrum Master: Aida Bau
+- Creación de Backlog y actualizaciones diarias
+- Dailys
+- Sprint reviews
+- Feedbacks de mejora
   
-### Autoras: :tecnóloga:
+### Autoras: 
 
-- **Nombres**: Irantzu Urkiola, Inés García, Aura Candela, Aida Bau
-- **Curso**: Adalab - Data Analyst (Promo 52 - Julia Salander)
-- **Módulo**: 2 - Bases de datos y SQL
+Irantzu Urkiola
+Inés García
+Aura Candela
+Aida Bau
+
 
 
 
