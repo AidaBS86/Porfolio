@@ -1,6 +1,5 @@
 Descripción
 
-Este repositorio contiene la evaluación del Módulo 1 del Bootcamp de Data Analyst. 
 En este módulo, se abordaron los conceptos fundamentales de Python, incluyendo estructuras de datos, condicionales, bucles, 
 funciones y programación orientada a objetos (POO), con el objetivo de desarrollar habilidades para el análisis de datos.
 
