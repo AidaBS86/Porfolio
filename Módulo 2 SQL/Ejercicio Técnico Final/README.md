@@ -1,6 +1,5 @@
 # 🧪 Ejercicio Técnico — Módulo 2: SQL
-
-Este ejercicio técnico forma parte de la evaluación final del segundo módulo del bootcamp de Data Analyst.  
+  
 Consiste en resolver una serie de consultas SQL sobre la base de datos **Sakila**, orientada a simular una tienda de alquiler de películas.
 
 ---
