@@ -26,18 +26,4 @@ Después, tendrás la opción de volver a jugar o salir.
 - Jupyter Notebook
 - VS Code
 - Git y GitHub
-- Metodología Scrum
-
-# Roles en el equipo
-
-Durante el desarrollo del proyecto, el equipo se organizó para cubrir distintas tareas:
-
-- ScrumMaster: Lara
-- ScrumTeam: Todas unidas!
-
-# Equipo del proyecto:
-Aura 
-Almudena 
-Lara 
-Eylin 
-Aida 
+- Metodología Agile
