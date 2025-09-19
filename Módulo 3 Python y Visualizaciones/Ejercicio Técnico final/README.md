@@ -1,7 +1,6 @@
-# ✈️ Ejercicio Técnico — Módulo 3: Python + Visualización
+# ✈️ Ejercicio Técnico: Python + Visualización
 
-Este ejercicio forma parte de la **evaluación final individual** del tercer módulo del bootcamp de Data Analyst.  
-Se centra en la **limpieza, análisis y visualización de datos reales** de una aerolínea con programa de fidelización.
+Este ejercicio se centra en la **limpieza, análisis y visualización de datos reales** de una aerolínea con programa de fidelización.
 
 ---
 
