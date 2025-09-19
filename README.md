@@ -1,13 +1,12 @@
-# 📊 Porfolio de proyectos — Bootcamp Data Analyst
+# 📊 Porfolio de proyectos — Data Analyst
 
 ¡Bienvenid@ a mi porfolio!  
-Aquí encontrarás todos los **proyectos grupales** y **ejercicios técnicos individuales** que realicé durante el bootcamp intensivo de Data Analyst, completado en 2025.
+Aquí encontrarás todos los **proyectos grupales** y **ejercicios técnicos individuales** que realicé durante el bootcamp intensivo de Data Analyst (620h), completado en 2025.
 
 ---
 
-## 🧠 Sobre el bootcamp
+## 🧠 Lo estudiado
 
-Este programa intensivo tuvo una duración de algo más de **3 meses**, con más de **25 horas semanales de clase** y una media de **3–4 horas diarias** dedicadas al estudio y la práctica.  
 El temario se organizó en **4 módulos** progresivos, enfocados tanto en el dominio técnico como en el trabajo en equipo y la comunicación de resultados:
 
 1. **Python**  
@@ -16,17 +15,13 @@ El temario se organizó en **4 módulos** progresivos, enfocados tanto en el dom
 4. **Tableau y Power BI**
 
 A lo largo del curso aplicamos la **metodología agile**, con _dailys_, retroalimentaciones constantes y presentaciones orales.  
-Tuve el rol de **Scrum Master** en dos de los cinco proyectos grupales.
+Tuve el rol de **Scrum Master** en dos de los cinco proyectos grupales con feedbacks positivos.
 
 ---
 
 ## 📁 Estructura del repositorio
 
-El repositorio se organiza por módulos.  
-Cada carpeta incluye:
-
-- Una subcarpeta para el **proyecto grupal**
-- Otra para el **ejercicio técnico individual** (excepto en el módulo 4, que no tuvo)
+El repositorio se organiza por proyectos y por trabajos técnicos finales de cada módulo.  
 
 Dentro de los proyectos encontrarás subcarpetas específicas para:
 - Código en Python / SQL
@@ -36,23 +31,21 @@ Dentro de los proyectos encontrarás subcarpetas específicas para:
 
 ---
 
-## 💼 Proyectos destacados
+## 💼 Proyectos grupales destacados
 
-### 🧩 Módulo 1: Python
-- **Proyecto grupal:** Creación de un juego de preguntas y respuestas en Jupyter Notebook.
-- **Ejercicio técnico:** Resolución individual de problemas con condicionales, estructuras de control y funciones, creando una clase.
+### 🧩 Python
+-  Creación de un juego de preguntas y respuestas en Jupyter Notebook.
 
-### 🎵 Módulo 2: SQL + APIs
-- **Proyecto grupal:** Extracción y análisis de datos musicales desde dos APIs.  
+### 🎵 SQL + APIs
+- Extracción y análisis de datos musicales desde dos APIs.  
   Se realizó conexión con SQL para almacenar y consultar la información.
-- **Ejercicio técnico:** Consultas avanzadas en SQL (joins, subconsultas, funciones agregadas...).
 
-### 👥 Módulo 3: Python + Visualizaciones
-- **Proyecto grupal:** Análisis de datos de empleados de una empresa para detectar posibles causas de fuga.  
+
+### 👥 Python + Visualizaciones
+- Análisis de datos de empleados de una empresa para detectar posibles causas de fuga.  
   Uso intensivo de EDA y visualización con pandas, seaborn y matplotlib.
-- **Ejercicio técnico:** Análisis individual de datasets usando funciones EDA personalizadas y creación de ETL con conexión a SQL.
 
-### 🧠🎬 Módulo 4: Tableau + Power BI
+### 🧠🎬 Tableau + Power BI
 - **Proyecto Tableau:** Visualizaciones sobre salud mental a partir de tres datasets de Kaggle.  
   Incluyó mapas, gráficos dinámicos y un dashboard interactivo.  
   [🔗 Ver en Tableau Public](https://public.tableau.com/app/profile/aida.bau.sim)
@@ -60,6 +53,20 @@ Dentro de los proyectos encontrarás subcarpetas específicas para:
   Visualizaciones enfocadas en subgéneros del terror, estilos de dirección, presupuestos, valoraciones y con conclusión de la receta
   para crear la mejor película de terror.
 
+## 👩‍💻 Trabajos técnicos individuales
+
+### 🧩 Python
+
+- Resolución individual de problemas con condicionales, estructuras de control y funciones, creando una clase.
+
+### 🎬 SQL + APIs
+
+- Consultas avanzadas en SQL (joins, subconsultas, funciones agregadas...) con la BBDD Sakila.
+
+### 👥 Python + Visualizaciones
+
+- Análisis de datasets usando funciones EDA personalizadas y creación de ETL con conexión a SQL.
+  
 ---
 
 ## 🛠️ Herramientas y tecnologías utilizadas
