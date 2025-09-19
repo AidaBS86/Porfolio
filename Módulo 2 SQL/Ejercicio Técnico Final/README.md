@@ -1,4 +1,4 @@
-# 🧪 Ejercicio Técnico — Módulo 2: SQL
+# 🧪 Ejercicio Técnico SQL
   
 Consiste en resolver una serie de consultas SQL sobre la base de datos **Sakila**, orientada a simular una tienda de alquiler de películas.
 
@@ -31,7 +31,7 @@ Se trata de una base de datos relacional de ejemplo que contiene información so
 
 El ejercicio consta de **25 preguntas SQL** (23 obligatorias + 2 bonus), repartidas en diferentes niveles de dificultad.
 
-### 🧩 Tipos de consultas que se trabajaron:
+### 🧩 Tipos de consultas que se trabajan:
 - Filtrado y búsqueda de datos (`WHERE`, `LIKE`, rangos)
 - Funciones agregadas y agrupaciones (`COUNT`, `AVG`, `GROUP BY`, `HAVING`)
 - `JOIN` entre múltiples tablas (incluso `JOIN` de una tabla consigo misma)
