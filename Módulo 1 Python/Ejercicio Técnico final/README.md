@@ -1,12 +1,12 @@
 Descripción
 
-En este módulo, se abordaron los conceptos fundamentales de Python, incluyendo estructuras de datos, condicionales, bucles, 
+En este ejercicio, se abordan los conceptos fundamentales de Python, incluyendo estructuras de datos, condicionales, bucles, 
 funciones y programación orientada a objetos (POO), con el objetivo de desarrollar habilidades para el análisis de datos.
 
 Para esta evaluación, he decidido basarme en la implementación utilizando clases, con la creación de una tienda online simulada llamada "Viste a tu rollo". 
 En este proyecto, se pueden realizar diversas funciones relacionadas con la gestión de productos e inventarios.
 
-Objetivos del Módulo 1
+Objetivos del ejercicio
 
 Familiarización con Python: Sintaxis, variables, estructuras de datos.
 Comprensión de las estructuras de control: Condicionales, bucles.
