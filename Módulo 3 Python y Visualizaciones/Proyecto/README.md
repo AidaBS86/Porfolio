@@ -1,7 +1,6 @@
 💼 Transformando el Talento
 
-Es un proyecto desarrollado en el marco del programa de formación en Analítica de Datos de Adalab.
-Su propósito es analizar, limpiar y visualizar datos relacionados con el desarrollo profesional y el bienestar de las personas en el entorno laboral, utilizando técnicas de análisis exploratorio y narrativas basadas en datos.
+El propósito del proyecto es analizar, limpiar y visualizar datos relacionados con el desarrollo profesional y el bienestar de las personas en el entorno laboral, utilizando técnicas de análisis exploratorio y narrativas basadas en datos.
 ________________________________________
 
 🎯 Objetivos del proyecto
@@ -99,11 +98,3 @@ ________________________________________
 •	Comunicación efectiva de resultados técnicos a públicos diversos.
 
 ________________________________________
-
-🚀 Próximos pasos
-
-•	Integrar visualizaciones interactivas con herramientas como Plotly o Dash.
-
-•	Ampliar el análisis con modelos predictivos en futuras fases del proyecto.
-
-•	Preparar una presentación final visual y argumentada para stakeholders.
