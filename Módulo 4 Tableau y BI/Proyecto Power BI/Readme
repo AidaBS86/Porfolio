@@ -1,6 +1,6 @@
 # 🎬 La receta perfecta para crear la mejor película de terror (basada en datos)
 
-Este proyecto fue realizado como parte del cuarto módulo del bootcamp de Data Analyst, y se centra en analizar los elementos clave que componen una **película de terror exitosa**, utilizando herramientas de visualización avanzadas en **Power BI**.
+Este proyecto se centra en analizar los elementos clave que componen una **película de terror exitosa**, utilizando herramientas de visualización avanzadas en **Power BI**.
 
 ---
 
@@ -58,12 +58,5 @@ El dashboard se divide en secciones temáticas que permiten explorar distintos f
 
 Este trabajo fue desarrollado por el equipo completo, usando **metodología ágil** y realizando presentacion oral al finalizar el proyecto.
 
-### Participantes:
-
-- Arantxa Herrero
-- Gemma Traguany
-- Silvia Farled (SCRUM Master)
-- Aida Bau
-
 Todas participamos en el análisis y desarrollo visual del dashboard.  
-En mi caso (Aida), **propuse el tema** y participé activamente en todas las fases: desde la **limpieza y exploración de datos**, hasta el diseño estético y funcional del informe.
+En mi caso, **propuse el tema** y participé activamente en todas las fases: desde la **limpieza y exploración de datos**, hasta el diseño estético y funcional del informe.
